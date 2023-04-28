@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-demo/static/js/main.456cf294.js",
-    "index.html": "/react-demo/index.html",
-    "main.456cf294.js.map": "/react-demo/static/js/main.456cf294.js.map"
+    "main.js": "/React-demo/static/js/main.456cf294.js",
+    "index.html": "/React-demo/index.html",
+    "main.456cf294.js.map": "/React-demo/static/js/main.456cf294.js.map"
   },
   "entrypoints": [
     "static/js/main.456cf294.js"
